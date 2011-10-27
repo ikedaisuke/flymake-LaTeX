@@ -1,0 +1,7 @@
+See EmacsWiki http://www.emacswiki.org/emacs/FlymakeTex
+and my blog   http://madscientist.jp/~ikegami/diary/20080128.html
+
+Requirement:
+- chktex http://baruch.ev-en.org/proj/chktex/
+- kakasi http://kakasi.namazu.org/index.html.ja
+- nkf    http://sourceforge.jp/projects/nkf/
